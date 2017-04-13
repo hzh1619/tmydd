@@ -1,0 +1,10 @@
+{
+	"index.html": {
+		"resources": [
+			"css/index.css",
+			"img/images/ms8.png",
+			"css/response.css",
+			"img/images/banner.jpg"
+		]
+	}
+}
